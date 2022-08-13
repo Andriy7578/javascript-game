@@ -31,7 +31,7 @@ pipe[0] = {
 
 
 // click event
-document.addEventListener('keydown', moweUp)
+document.addEventListener('click', moweUp)
 
 function moweUp() {
     yPos -= 25;
